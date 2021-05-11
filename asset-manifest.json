@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/horb/static/css/main.95d59019.chunk.css",
-    "main.js": "/horb/static/js/main.7830c09b.chunk.js",
-    "main.js.map": "/horb/static/js/main.7830c09b.chunk.js.map",
+    "main.css": "/horb/static/css/main.f03d0a03.chunk.css",
+    "main.js": "/horb/static/js/main.dfa08177.chunk.js",
+    "main.js.map": "/horb/static/js/main.dfa08177.chunk.js.map",
     "runtime-main.js": "/horb/static/js/runtime-main.b6f3c107.js",
     "runtime-main.js.map": "/horb/static/js/runtime-main.b6f3c107.js.map",
-    "static/js/2.bc2ec1ac.chunk.js": "/horb/static/js/2.bc2ec1ac.chunk.js",
-    "static/js/2.bc2ec1ac.chunk.js.map": "/horb/static/js/2.bc2ec1ac.chunk.js.map",
+    "static/js/2.85cd6fab.chunk.js": "/horb/static/js/2.85cd6fab.chunk.js",
+    "static/js/2.85cd6fab.chunk.js.map": "/horb/static/js/2.85cd6fab.chunk.js.map",
     "index.html": "/horb/index.html",
-    "static/css/main.95d59019.chunk.css.map": "/horb/static/css/main.95d59019.chunk.css.map",
-    "static/js/2.bc2ec1ac.chunk.js.LICENSE.txt": "/horb/static/js/2.bc2ec1ac.chunk.js.LICENSE.txt"
+    "static/css/main.f03d0a03.chunk.css.map": "/horb/static/css/main.f03d0a03.chunk.css.map",
+    "static/js/2.85cd6fab.chunk.js.LICENSE.txt": "/horb/static/js/2.85cd6fab.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b6f3c107.js",
-    "static/js/2.bc2ec1ac.chunk.js",
-    "static/css/main.95d59019.chunk.css",
-    "static/js/main.7830c09b.chunk.js"
+    "static/js/2.85cd6fab.chunk.js",
+    "static/css/main.f03d0a03.chunk.css",
+    "static/js/main.dfa08177.chunk.js"
   ]
 }
